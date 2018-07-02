@@ -1,4 +1,4 @@
-Chinese NER Using Lattice LSTM
+[Chinese NER Using Lattice LSTM][666]
 ====
 
 Lattice LSTM for Chinese NER. Character based LSTM with Lattice embeddings as input.
@@ -55,3 +55,6 @@ Please cite our ACL 2018 paper:
      booktitle={Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL)},
      year={2018}  
     }
+    
+---  
+[666]: https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650744491&idx=5&sn=0f03418a0f3870a6fed319e4f00e3691&chksm=871ae2d5b06d6bc3e37d3fdd056733675626356da059c8c9b29030cdfee88cc4201374d4324d&mpshare=1&scene=1&srcid=0701DWC2WGL9kcZDNgPLJrSN#rd
